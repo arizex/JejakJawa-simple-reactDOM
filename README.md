@@ -1,12 +1,23 @@
-# React + Vite
+# JejakJawa-Simple-ReactDom
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website sederhana untuk menampilkan sejarah dan peradaban Jawa menggunakan React DOM.
 
-Currently, two official plugins are available:
+## 🚀 Fitur
+- Landing page dengan headline sejarah Jawa
+- Tombol navigasi eksplorasi dan timeline
+- Layout bersih dan responsif
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Teknologi
+- React.js
+- Vite
+- JSX
+- Tailwind CSS 
 
-## Expanding the ESLint configuration
+## 🎯 Tujuan
+Proyek ini dibuat sebagai latihan membangun website sederhana menggunakan React, dengan fokus pada penyajian konten sejarah budaya lokal Indonesia (Jawa).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Instalasi Lokal
+npm install
+npm run dev
+
+By : Aris Ramadhani
